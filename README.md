@@ -9,7 +9,7 @@ Formado em Design Gráfico estudando atualmente Análise e Desenvolvimento de Si
 #
 <section align='center'><br>
  
-![Estatísticas do GitHub de CraraMaria](https://github-readme-stats.vercel.app/api?username=CraraMaria&show_icons=true&theme=dracula)
+](https://github-readme-stats.vercel.app/api?username=filipe-macedo&show_icons=true&theme=dracula)
 
 </section>
 
