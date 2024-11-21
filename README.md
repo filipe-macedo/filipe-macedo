@@ -7,20 +7,9 @@ Formado em Design Gráfico estudando atualmente Análise e Desenvolvimento de Si
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/fcmacedo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filipecmacedo)
 
 #
-<section align='center'><br>
- 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=filipe-macedo&show_icons=true&theme=dracula)
-
-</section>
-
-<section align='center'><br>
- 
-<div>
-<a href="https://github.com/filipe-macedo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-macedo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-</section>
+[![Filipe's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=filipe-macedo&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/filipe-macedo)
+<br>
+[![Filipe Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=filipemacedo&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&range=all_time)](https://wakatime.com/@filipemacedo)
 ---
 
 ![](https://visitcount.itsvg.in/api?id=filipe-macedo&icon=0&color=5)
