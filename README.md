@@ -1,7 +1,7 @@
 <div align="left">
 
 # About Me:
-Formado em Design Gráfico estudando atualmente Análise e Desenvolvimento de Sistemas
+Designer Gráfico estudando atualmente Análise e Desenvolvimento de Sistemas.
 
 ##
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/fcmacedo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filipecmacedo)
