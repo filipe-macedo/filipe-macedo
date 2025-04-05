@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="left">
 
-<!--
-**filipe-macedo/filipe-macedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre:
+ Desde 2013, trabalho como Designer Gráfico, Ilustrador e Diretor de Arte. Atualmente, estudo Análise e Desenvolvimento de Sistemas no Senac.
+##
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/fcmacedo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filipecmacedo)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+<div>
+<a href="https://github.com/filipe-macedo">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-macedo&layout=compact&langs_count=7&theme=github_dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=filipe-macedo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
